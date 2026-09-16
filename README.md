@@ -35,8 +35,8 @@ Listening, scored against each task's rubric and tracked on the 10–90 band.
 - Admin question CRUD with bulk JSON import; local disk storage in development, S3-compatible
   in production.
 
-*Next.js 16 (App Router), TypeScript, Tailwind v4, Prisma, PostgreSQL, NextAuth v5, Anthropic
-Claude, OpenAI Whisper.* &nbsp;[Repository](https://github.com/pushparajadhikari/PTE-Practice-for-Free)
+*Next.js 16 (App Router), TypeScript, Tailwind v4, Prisma, PostgreSQL, NextAuth v5, LLM scoring
+API, OpenAI Whisper.* &nbsp;[Repository](https://github.com/pushparajadhikari/PTE-Practice-for-Free)
 
 ### Campus Connect — student community platform
 Community application for a university cohort: posts with attachments across Lost & Found,
